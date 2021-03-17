@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tickets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contacts>
+    <Name>ee</Name>
+    <BusName>Ajanata Travels</BusName>
+    <From>Delhi</From>
+    <To>Mumbai</To>
+    <Contact>1231231231</Contact>
+    <Date>01/02/2021</Date>
+    <Seat>3</Seat>
+    <Fare>1600</Fare>
+    <Departure>1:20</Departure>
+  </Contacts>
+  <Contacts>
+    <Name>rahul</Name>
+    <BusName>RP Travels</BusName>
+    <From>Indore</From>
+    <To>Bangalore</To>
+    <Contact>1231231231</Contact>
+    <Date>02/02/2021</Date>
+    <Seat>3</Seat>
+    <Fare>1600</Fare>
+    <Departure>4:20</Departure>
+  </Contacts>
+</Tickets>

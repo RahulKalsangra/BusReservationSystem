@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <temp>
+    <Name>ad</Name>
+    <Email>asd@g.com</Email>
+    <Password>123</Password>
+    <Confirm_Password>123</Confirm_Password>
+    <Number>1231231231</Number>
+  </temp>
+</gl>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BusDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Fare>1200</Fare>
+      <Departure>4:20</Departure>
+      <From>Indore</From>
+      <To>Bangalore</To>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>RK Travels</Name>
+      <Fare>1100</Fare>
+      <Departure>3:20</Departure>
+      <From>Indore</From>
+      <To>Bangalore</To>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>RP Travels</Name>
+      <Fare>1600</Fare>
+      <Departure>4:20</Departure>
+      <From>Indore</From>
+      <To>Bangalore</To>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Maharaja Travels</Name>
+      <Fare>1300</Fare>
+      <Departure>4:40</Departure>
+      <From>Indore</From>
+      <To>Bangalore</To>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>4:20</Departure>
+      <From>Indore</From>
+      <To>Delhi</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Maharaja Travels</Name>
+      <Departure>4:40</Departure>
+      <From>Indore</From>
+      <To>Delhi</To>
+      <Fare>1200</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Maharaja Travels</Name>
+      <Departure>4:20</Departure>
+      <From>Indore</From>
+      <To>Mumbai</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>1:20</Departure>
+      <From>Delhi</From>
+      <To>Bangalore</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>1:20</Departure>
+      <From>Delhi</From>
+      <To>Mumbai</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Maharaja Travels</Name>
+      <Departure>1:20</Departure>
+      <From>Delhi</From>
+      <To>Indore</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>2:20</Departure>
+      <From>Bangalore</From>
+      <To>Delhi</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>2:20</Departure>
+      <From>Bangalore</From>
+      <To>Mumbai</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Maharaja Travels</Name>
+      <Departure>2:20</Departure>
+      <From>Bangalore</From>
+      <To>Indore</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>3:20</Departure>
+      <From>Mumbai</From>
+      <To>Delhi</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Ajanata Travels</Name>
+      <Departure>3:20</Departure>
+      <From>Mumbai</From>
+      <To>Bangalore</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+   <Bus>
+      <Name>Maharaja Travels</Name>
+      <Departure>3:20</Departure>
+      <From>Mumbai</From>
+      <To>Indore</To>
+      <Fare>1600</Fare>
+      <Seat>40</Seat>
+   </Bus>
+</BusDetails>
